@@ -1,0 +1,39 @@
+!SESSION 2012-11-09 12:31:49.446 -----------------------------------------------
+eclipse.buildId=3.2.2.201208201020
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/thesis/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/thesis/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-11-09 12:32:37.883
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.resources 4 566 2012-11-09 12:59:26.181
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+!SESSION 2012-11-10 00:13:18.585 -----------------------------------------------
+eclipse.buildId=3.2.2.201208201020
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/thesis/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/thesis/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-11-10 00:13:25.900
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.osgi 2 1 2012-11-10 00:14:58.129
+!MESSAGE NLS missing message: HttpServerSettingsTab_Title in: com.aptana.js.debug.ui.internal.launchConfigurations.messages
+
+!ENTRY org.eclipse.core.resources 4 566 2012-11-10 00:34:30.722
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+!SESSION 2012-11-11 00:51:36.574 -----------------------------------------------
+eclipse.buildId=3.2.2.201208201020
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/thesis/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/thesis/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-11-11 00:51:44.869
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

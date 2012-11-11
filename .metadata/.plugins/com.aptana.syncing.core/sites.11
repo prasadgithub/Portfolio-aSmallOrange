@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+<site>
+<name>Site Connnection</name>
+<source>workspace:/Portfolio%20Site</source>
+<destination>aptanavfs://d665034a-ac74-4bf6-a413-797017cc0d2f/</destination>
+</site>
+</sites>

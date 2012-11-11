@@ -1,0 +1,5 @@
+AutoSyncChangesWithRemote\:Portfolio\ Site=true
+AutoSyncDirection\:Portfolio\ Site=BOTH
+IGNORE_DIALOG_FILE_UPLOAD=always
+com.aptana.ide.syncing.views.CLOSE_WHEN_DONE=true
+eclipse.preferences.version=1

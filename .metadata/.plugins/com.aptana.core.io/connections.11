@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+<connection id="d665034a-ac74-4bf6-a413-797017cc0d2f" type="ftp">
+<name>FTP-aSmallOrange</name>
+<host>prasadpamidi.com</host>
+<path>/public_html</path>
+<login>prasadpa</login>
+<passive>true</passive>
+</connection>
+<connection id="115b8ecc-6e65-4f3a-9906-ca4cd4c723d3" type="workspace">
+<name>Portfolio Site</name>
+<path>/Portfolio Site</path>
+</connection>
+</connections>
